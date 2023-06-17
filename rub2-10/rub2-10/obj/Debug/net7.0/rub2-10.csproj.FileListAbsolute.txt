@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\rub2-10\rub2-10\obj\Debug\net7.0\rub2-10.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\rub2-10\rub2-10\obj\Debug\net7.0\rub2-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\rub2-10\rub2-10\obj\Debug\net7.0\rub2-10.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\rub2-10\rub2-10\obj\Debug\net7.0\rub2-10.AssemblyInfo.cs
+C:\Users\User\source\repos\rub2-10\rub2-10\obj\Debug\net7.0\rub2-10.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\rub2-10\rub2-10\bin\Debug\net7.0\rub2-10.exe
+C:\Users\User\source\repos\rub2-10\rub2-10\bin\Debug\net7.0\rub2-10.deps.json
+C:\Users\User\source\repos\rub2-10\rub2-10\bin\Debug\net7.0\rub2-10.runtimeconfig.json
+C:\Users\User\source\repos\rub2-10\rub2-10\bin\Debug\net7.0\rub2-10.dll
+C:\Users\User\source\repos\rub2-10\rub2-10\bin\Debug\net7.0\rub2-10.pdb
+C:\Users\User\source\repos\rub2-10\rub2-10\obj\Debug\net7.0\rub2-10.dll
+C:\Users\User\source\repos\rub2-10\rub2-10\obj\Debug\net7.0\refint\rub2-10.dll
+C:\Users\User\source\repos\rub2-10\rub2-10\obj\Debug\net7.0\rub2-10.pdb
+C:\Users\User\source\repos\rub2-10\rub2-10\obj\Debug\net7.0\rub2-10.genruntimeconfig.cache
+C:\Users\User\source\repos\rub2-10\rub2-10\obj\Debug\net7.0\ref\rub2-10.dll
